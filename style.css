@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600&display=swap');
+/*Gerais*/
+body{
+    font-family: 'Poppins light 300', sans-serif;
+}
+h1{
+    text-align: center;
+}
+
+h1, p, a {
+    font-family: 'Poppins', sans-serif;
+}
+img {
+    width: 286px;
+    height: 355px;
+}
+
+
+/* body */
+
+#body-container {
+
+    margin-top: 30px;
+}
+
+
+/* Barra de navegação */
+
+header, .navbar {
+    background-color: #5bc0de;
+}
+
+
+#title {
+    color: #fff;
+}
+#title:hover {
+    color: #0d3b49;
+}
+
+#navbar-links a {
+    border-style: solid;
+    border-radius: 1rem;
+    color: #fff;  
+    margin: 0 5px;
+    padding: 2px 1px;
+}
+#navbar-links a:hover {
+    color: #0d3b49;
+
+}
+
+#card-view {
+    width: 18rem;
+    margin: 8px;
+}
+#carrinho {
+    width: 45px;
+    height: 25px;
+    fill: #fff;  
+}
+
+
+
+
